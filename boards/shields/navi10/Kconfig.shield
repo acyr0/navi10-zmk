@@ -1,0 +1,2 @@
+config SHIELD_NAVI10
+    def_bool $(shields_list_contains,navi10)

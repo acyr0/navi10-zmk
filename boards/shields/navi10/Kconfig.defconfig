@@ -1,0 +1,6 @@
+if SHIELD_NAVI10
+
+config ZMK_KEYBOARD_NAME
+    default "navi10"
+
+endif # SHIELD_NAVI10
